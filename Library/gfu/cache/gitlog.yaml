@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-04-25T17:38:30.682-07:00
+  initializedAtString: 2019-04-25T17:35:37.480-07:00
+  log:
+  - commitID: 1c79b6c054ba18783b543d4bc8dd700fbb0b563c
+    mergeA: 
+    mergeB: 
+    authorName: david
+    authorEmail: davidissleeping@hotmail.com
+    commitEmail: davidissleeping@hotmail.com
+    commitName: david
+    summary: init
+    description: init
+    timeString: 2019-04-25T17:37:53.000-07:00
+    commitTimeString: 2019-04-25T17:37:53.000-07:00
+    changes:
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\vrteam5\Documents\Elevator Interaction\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
